@@ -5,13 +5,17 @@ int main()
 int row,col;
 cin>>row>>col;
  
- for(int i=1; i<=row; i++)
+ for(int i=0; i<=row; i++)
  {
-     for(int j=1; j<=col; j++ )
+     for(int j=0; j<=col; j++ )
      {
          cout<<j+1;
      }
      cout<<endl;
  }   return 0;
 }
-
+/**output
+ * 2 3
+1234
+1234
+1234    **/
