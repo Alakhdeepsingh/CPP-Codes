@@ -12,4 +12,8 @@ while(n>0)
 }
     return 0;
 }
-
+/*output 
+4 (user have given value)
+4
+-4 (user have given value)
+now it will not terminate **/

@@ -14,4 +14,14 @@ for(i=2; i<number; i++)
 }
     return 0;
 }
-
+/**
+10
+Enter hte numbers of elements1
+2
+3
+5
+8
+13
+21
+34
+**/

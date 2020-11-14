@@ -11,7 +11,7 @@ int main() {
         cin >> number;
 
         // break condition
-        if (number < 0) {
+      if (number < 0) {
             break;
         }
 

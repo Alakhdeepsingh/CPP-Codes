@@ -17,7 +17,7 @@ switch (op)
     case '*':
     cout<<n1*n2<<endl;
     case '/':
-    cout<<n1/n2<<endl;
+    cout<<n1/n2<<endl;12 34
     default:
     cout<<"enter another operator";
     break;

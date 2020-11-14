@@ -13,7 +13,7 @@ else
 }
 }
 else {
-    if(b>c)
+    if(b>c) {
     cout<<b<<endl;
 }
 else {
