@@ -10,7 +10,7 @@ cout<<aptr<<endl;
 cout<<*aptr<<endl;
     return 0;
 }
-/** Output
+/**  Output
 0x61ff08
 0x61ff08
 13  **/
