@@ -5,7 +5,7 @@ int main()
 int a=34;
 char c=45;
 float f=5.45;
-double d=4.56789;
+double d=4.567899;
 cout<<a<<c<<f<<d;
     return 0;
 }
